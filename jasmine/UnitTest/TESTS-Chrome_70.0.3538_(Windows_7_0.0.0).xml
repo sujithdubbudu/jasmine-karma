@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<testsuite name="Chrome 70.0.3538 (Windows 7 0.0.0)" package="" timestamp="2018-12-07T07:06:20" id="0" hostname="WKSBAN18RB6312A" tests="15" errors="0" failures="0" time="0.02">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36"/>
+  </properties>
+  <testcase name="Different Methods of Expect Block first call " time="0" classname="Chrome_70_0_3538_(Windows_7_0_0_0).Different Methods of Expect Block">
+    <skipped/>
+  </testcase>
+  <testcase name="Different Methods of Expect Block second call " time="0" classname="Chrome_70_0_3538_(Windows_7_0_0_0).Different Methods of Expect Block">
+    <skipped/>
+  </testcase>
+  <testcase name="sum of numbers should check whether it is number" time="0.004" classname="Chrome_70_0_3538_(Windows_7_0_0_0).sum of numbers"/>
+  <testcase name="This custom matcher example  Lets see whether u are teen or not" time="0.001" classname="Chrome_70_0_3538_(Windows_7_0_0_0).This custom matcher example "/>
+  <testcase name="This custom matcher example  Lets see whether u are teen or not " time="0.001" classname="Chrome_70_0_3538_(Windows_7_0_0_0).This custom matcher example "/>
+  <testcase name="Different Methods of Expect Block Hey this will throw an Error " time="0" classname="Chrome_70_0_3538_(Windows_7_0_0_0).Different Methods of Expect Block"/>
+  <testcase name="notprime it is not prime" time="0.001" classname="Chrome_70_0_3538_(Windows_7_0_0_0).notprime"/>
+  <testcase name="even it is even number" time="0" classname="Chrome_70_0_3538_(Windows_7_0_0_0).even"/>
+  <testcase name="test positive num it is  positive number" time="0.001" classname="Chrome_70_0_3538_(Windows_7_0_0_0).test positive num"/>
+  <testcase name="Different Methods of Expect Block after each function " time="0.008" classname="Chrome_70_0_3538_(Windows_7_0_0_0).Different Methods of Expect Block"/>
+  <testcase name="sum of numbers should check whether it is number" time="0" classname="Chrome_70_0_3538_(Windows_7_0_0_0).sum of numbers"/>
+  <testcase name="Different Methods of Expect Block The Example of toBe method" time="0.002" classname="Chrome_70_0_3538_(Windows_7_0_0_0).Different Methods of Expect Block"/>
+  <testcase name="grading gives grades" time="0" classname="Chrome_70_0_3538_(Windows_7_0_0_0).grading"/>
+  <testcase name="Different Methods of Expect Block after each function " time="0.001" classname="Chrome_70_0_3538_(Windows_7_0_0_0).Different Methods of Expect Block"/>
+  <testcase name="Hello World should Return Hello world" time="0.001" classname="Chrome_70_0_3538_(Windows_7_0_0_0).Hello World"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
